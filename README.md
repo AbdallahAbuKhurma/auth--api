@@ -12,17 +12,17 @@
 
 ## Heroku Application
 
-[Abdallah-Auth-Api](https://abdallah-auth-api.herokuapp.com/)
+[Abdallah-Auth-Api](https://abdallah1-auth-api.herokuapp.com/)
 
 ## GitHub Actions
 
-[GitHub Action](https://github.com/AbdallahAbuKhurma/auth-api/actions)
+[GitHub Action](https://github.com/AbdallahAbuKhurma/auth--api/actions)
 
 ## Pull Requests
 
-[GitHub Pull Request 1](https://github.com/AbdallahAbuKhurma/auth-api/pull/1)
+[GitHub Pull Request 1](https://github.com/AbdallahAbuKhurma/auth--api/pull/1)
 
-[GitHub Pull Request 2](https://github.com/AbdallahAbuKhurma/auth-api/pull/2)
+[GitHub Pull Request 2](https://github.com/AbdallahAbuKhurma/auth--api/pull/2)
 
 ## Setup
 
